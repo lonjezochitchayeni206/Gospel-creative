@@ -8,3 +8,13 @@
   <path d="M43 75 L57 75 L54 83 L46 83 Z" fill="#ffffff"/>
   <path d="M40 18 L60 18 L65 25 L35 25 Z" fill="#20b86a"/>
 </svg>
+<escape><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<rect width="100" height="100" rx="22" fill="#0B6B43"/>
+<circle cx="50" cy="43" r="27" fill="#FFFFFF"/>
+<rect x="28" y="29" width="44" height="30" rx="6" fill="#0B6B43"/>
+<circle cx="50" cy="44" r="11" fill="#FFFFFF"/>
+<circle cx="50" cy="44" r="6" fill="#0B6B43"/>
+<rect x="39" y="24" width="15" height="6" rx="2" fill="#0B6B43"/>
+<path d="M68 25 L74 18 L80 25 L74 32 Z" fill="#F5C542"/>
+<text x="50" y="84" font-size="12" font-weight="bold" text-anchor="middle" fill="#FFFFFF">GC</text>
+</svg></escape>
